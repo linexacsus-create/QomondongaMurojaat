@@ -7,7 +7,7 @@ import re
 
 # === Sozlamalar ===
 TOKEN = "8229785614:AAE7v4Ng-8I7e-JD-hrG-xkrSicj7SIn8QI"
-ARIZA_CHANNEL = "@arizalar_mho"  # Kanal username
+ARIZA_CHANNEL = -1003482921316
 DATA_FILE = "arizalar.json"      # Faylga yozish uchun
 ADMIN_ID = 8497454087            # Admin Telegram ID
 
